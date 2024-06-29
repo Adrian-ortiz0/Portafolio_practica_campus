@@ -2,7 +2,7 @@ body {
   margin: 0px;
   background-color: rgb(61, 61, 61);
   background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6)),
-    url("coding2.jpg");
+    url("images/coding2.jpg");
   background-size: cover;
 }
 
