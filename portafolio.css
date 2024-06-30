@@ -30,6 +30,10 @@ a {
 
   font-weight: bold;
 }
+
+#icon_cont div a {
+  text-align: center;
+}
 #myInfo {
   display: flex;
   align-self: center;
