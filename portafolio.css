@@ -200,7 +200,14 @@ main {
 #input_container button {
   width: 100px;
   height: 50px;
+  cursor: pointer;
 }
+
+#input_container input {
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 15px;
+}
+
 #icon_cont {
   display: grid;
   grid-template-rows: 1fr 1fr;
